@@ -1,19 +1,16 @@
 ---
-layout:     post
-title:      Install TensorFlow-GPU by Anaconda (conda install tensorflow-gpu)
-subtitle:   It might be the simplest way to install Tensorflow or Tensorflow-GPU by conda install in the conda environment
-date:       2019-03-29
-author:     Wang Pei
+layout: post
+title: Install TensorFlow-GPU by Anaconda (conda install tensorflow-gpu)
+subtitle: >-
+  It might be the simplest way to install Tensorflow or Tensorflow-GPU by conda
+  install in the conda environment
+date: '"2019-03-29T00:00:00.000Z"'
+author: Wang Pei
 header-img: img/art-Anaconda-TensorFlow.jpg
-catalog: true
-tags:
-    - ubuntu
-    - TensorFlow
-    - 深度学习
-    - CUDA
+catalog: 'true'
+tags: 'ubuntu, TensorFlow, 深度学习, CUDA'
+categories: ''
 ---
-
-
 # Install TensorFlow-GPU by Anaconda (conda install tensorflow-gpu)
 
 It might be the simplest way to install Tensorflow or Tensorflow-GPU by conda install in the conda environment  
@@ -25,7 +22,7 @@ Thus I strongly reconmend you not to do this, there's a much easier way to insta
 
 ---
 
-## Install Anaconda
+## 测试
 >[Anaconda](https://www.anaconda.com/) is a free and open-source distribution of the Python and R programming languages for scientific computing, that aims to simplify package management and deployment.   
 
 **You can download anaconda [here](https://www.anaconda.com/distribution/#download-section).**
@@ -101,3 +98,4 @@ When you see the version of tensorflow, such as 1.10.0, you have successfully in
 That's all, Thank you.
 
 If you encounter any problems, you can open an issue in the **Comment area**.
+![Image Title](http://)
